@@ -33,7 +33,7 @@ learning.
     <img src="https://skillicons.dev/icons?i=cs,dotnet" height="45" />
 </p>
 
-• C#, .NET 6+ • ASP.NET Core • WPF • .NET MAUI • EF Core
+• C#, .NET 6+ • ASP.NET Core • WPF • .NET MAUI
 
 ### **Additional Languages**
 <p>
