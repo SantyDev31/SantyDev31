@@ -18,11 +18,11 @@ I'm a Junior Software Developer with a strong focus on **C# and .NET development
 I enjoy building clean, scalable solutions and improving my skills through real projects and continuous
 learning.
 
-✔ Working on **Coko Bot**, a multipurpose Discord bot, with C#
-✔ Currently studying a specialization in **Artificial Intelligence and Big Data**
-✔ Holder of a **vocational degree in Multiplatform Application Development**
-✔ Comfortable with full-stack development and modern development tools
-✔ Passionate about learning, experimenting, and improving every day
+- ✔ Working on **Coko Bot**, a multipurpose Discord bot, with C#
+- ✔ Currently studying a specialization in **Artificial Intelligence and Big Data**
+- ✔ Holder of a **vocational degree in Multiplatform Application Development**
+- ✔ Comfortable with full-stack development and modern development tools
+- ✔ Passionate about learning, experimenting, and improving every day
 
 ---
 
