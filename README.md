@@ -100,4 +100,5 @@ Focus areas:
 - Smooth and adaptive reading experience with responsive UI
 - Optimized chapter search and fast navigation flow
 - Fully documented with a complete user guide
+
 🔗 **Repository:** https://github.com/SantyDev31/YomuYomu
